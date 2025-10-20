@@ -1,4 +1,4 @@
-# 💧 Anomaly Detection – Water Treatment Plant Project
+# Anomaly Detection – Water Treatment Plant Project
 
 **Author:** Alberto J. Maldonado Rodríguez  
 **Email:** apimaldo@gmail.com  
